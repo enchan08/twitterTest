@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\devel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\devel\AndroidStudioProjects\Trendwatcher1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-485a71e71fd432689cd259d25ae253b58d2c0fc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\devel\AndroidStudioProjects\Trendwatcher1\app\libs\twitter4j-core-4.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="34138fe734b03ae6e9ef978b41359b5fb6467047">
+        <dex dex="C:\Users\devel\AndroidStudioProjects\Trendwatcher1\app\build\intermediates\pre-dexed\debug\twitter4j-core-4.0.1-c638f0f8d20be72d11eaaa021b6e18a8f36cab7e.jar" />
+    </item>
+
+</items>

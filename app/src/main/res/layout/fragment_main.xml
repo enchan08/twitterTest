@@ -14,7 +14,7 @@
         android:id="@+id/button1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="トレンド検索" />
+        android:text="@string/trend_button" />
 
     <ListView
         android:id="@+id/listView1"
